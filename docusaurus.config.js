@@ -98,16 +98,24 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'GitHub',
+                href: 'https://github.com/COONEO',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/cooneo.robot/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Weibo',
+                href: 'https://weibo.com/cooneo',
+              },
+              {
+                label: 'Bilibili',
+                href: 'https://space.bilibili.com/625857407/',
+              },
+              {
+                label: 'Zhihu',
+                href: 'https://www.zhihu.com/people/jeff-44-13',
               },
             ],
           },
@@ -116,11 +124,11 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                to: 'http://cooneo.cc/wordpress/',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/C00NE0/C00NE0.github.io',
+                href: 'https://github.com/COONEO',
               },
             ],
           },
